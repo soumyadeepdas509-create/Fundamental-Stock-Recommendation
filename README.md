@@ -2,6 +2,10 @@
 
 A rule-based stock recommendation system built using Python and Streamlit.
 
+## 🚀 Live Demo
+
+https://fundamental-stock-recommendation-akwzf3dfibf6dvu5nrstsw.streamlit.app
+
 ## Features
 
 - Manual fundamental analysis
